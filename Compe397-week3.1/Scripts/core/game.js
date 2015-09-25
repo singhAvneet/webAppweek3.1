@@ -5,7 +5,7 @@
 /// <reference path="../typings/tweenjs/tweenjs.d.ts" />
 /// <reference path="../typings/soundjs/soundjs.d.ts" />
 /// <reference path="../typings/preloadjs/preloadjs.d.ts" />
-//global game framework variables
+//global game framework variablesccc
 var canvas;
 var stage;
 var stats;

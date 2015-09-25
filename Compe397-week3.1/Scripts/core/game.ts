@@ -8,7 +8,7 @@
 
 
 
-//global game framework variablesccc
+//global game framework variablesccchg
 var canvas: HTMLElement;
 var stage: createjs.Stage;
 var stats: Stats;
