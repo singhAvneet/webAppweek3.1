@@ -11,6 +11,7 @@
 //global game framework variables
 var canvas: HTMLElement;
 var stage: createjs.Stage;
+var stats: Stats;
 
 var helloLAbel: createjs.Text;
 
@@ -29,7 +30,11 @@ function init():void {
 function gameloop(event: createjs.Event): void {
     stage.update();
 
+
 }
+
+
+
 
 function main(): void {
     helloLAbel = new createjs.Text("Hello World!", "40px Consolas", "#000000");
